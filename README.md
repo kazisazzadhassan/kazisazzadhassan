@@ -3,16 +3,12 @@
 Frontend Engineer based in Copenhagen 🇩🇰  
 I build scalable and high-performance web applications using modern JavaScript frameworks.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kazisazzadhassan)
-
 ---
 
 ## About Me
 
 Frontend Engineer with 5+ years of experience building modern web applications.  
-Currently pursuing an MSc in Autonomous Systems and Artificial Intelligence at DTU.
-
-I enjoy designing scalable frontend architectures, creating reusable UI components, and optimizing application performance. I am passionate about clean code, strong engineering practices, and building products that deliver great user experiences.
+Currently completed an MSc in Autonomous Systems from Technical University of Denmark (DTU).
 
 - 5+ years experience in frontend development  
 - Strong focus on Vue.js and modern JavaScript ecosystems  
@@ -41,8 +37,11 @@ I enjoy designing scalable frontend architectures, creating reusable UI componen
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 
-### Backend Familiarity
-Node.js • REST APIs • GraphQL • Microservices
+### Backend
+![Node.js](https://img.shields.io/badge/Node-F1502F?style=for-the-badge&logo=node.js)
+![REST APIs](https://img.shields.io/badge/Rest-1C78C0?style=for-the-badge&logo=rest)
+![GraphQL](https://img.shields.io/badge/GraphQL-646CFF?style=for-the-badge&logo=GraphQL)
+![Microservices](https://img.shields.io/badge/Microservices-764ABC?style=for-the-badge)
 
 ---
 
@@ -54,7 +53,7 @@ Node.js • REST APIs • GraphQL • Microservices
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazisazzadhassan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=kazisazzadhassan&layout=compact&theme=tokyonight)
 
 ---
 
@@ -68,18 +67,6 @@ Node.js • REST APIs • GraphQL • Microservices
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-## Featured Projects
-
-### Frontend Performance Playground
-Experiments with rendering optimization, lazy loading, and modern frontend performance strategies.
-
-### Vue Component Library
-Reusable UI component system built with Vue 3 and TypeScript.
-
-### AI Research Project
-Machine learning research focused on predicting mechanical properties of cementitious materials using AI techniques.
 
 ---
 
@@ -91,12 +78,3 @@ https://linkedin.com/in/kazisazzadhossen
 **Email**  
 kazisazzadhassan@gmail.com
 
-**Google Scholar**  
-https://scholar.google.com/citations?user=I08jbAYAAAAJ
-
-**GitHub**  
-https://github.com/kazisazzadhassan
-
----
-
-⭐ Building scalable frontend systems from Copenhagen
