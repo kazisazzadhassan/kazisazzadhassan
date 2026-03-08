@@ -1,14 +1,8 @@
 # Hi there 👋 I'm Kazi Sazzad Hossen
 
 Frontend Engineer based in Copenhagen 🇩🇰  
+Completed an MSc in Autonomous Systems from Technical University of Denmark (DTU).
 I build scalable and high-performance web applications using modern JavaScript frameworks.
-
----
-
-## About Me
-
-Frontend Engineer with 5+ years of experience building modern web applications.  
-Currently completed an MSc in Autonomous Systems from Technical University of Denmark (DTU).
 
 - 5+ years experience in frontend development  
 - Strong focus on Vue.js and modern JavaScript ecosystems  
