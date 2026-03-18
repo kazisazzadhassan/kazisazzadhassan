@@ -1,13 +1,12 @@
 # Hi there 👋 I'm Kazi Sazzad Hossen
 
-Frontend Engineer based in Copenhagen 🇩🇰  
-Completed an MSc in Autonomous Systems from Technical University of Denmark (DTU).
-I build scalable and high-performance web applications using modern JavaScript frameworks.
+Frontend Engineer & AI Engineer based in Copenhagen 🇩🇰
+Completed an MSc in Autonomous Systems from the Technical University of Denmark (DTU). I build scalable, high-performance web applications and develop machine learning systems for real-world problems.
 
-- 5+ years experience in frontend development  
-- Strong focus on Vue.js and modern JavaScript ecosystems  
-- Experienced with scalable UI architecture and performance optimization  
-- Interested in systems thinking and frontend platforms that interact with real-world environments
+- 5+ years of experience in frontend development with Vue.js and modern JavaScript ecosystems
+- Experienced in building end-to-end ML pipelines and deep learning models using Python, PyTorch, and TensorFlow
+- Strong focus on scalable UI architecture, performance optimization, and data-driven applications
+- Interested in systems that combine frontend platforms with AI/ML, perception, and real-world environments
 
 ---
 
